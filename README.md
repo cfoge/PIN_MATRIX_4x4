@@ -6,6 +6,8 @@ Now you can use 2mm banana plugs as patch pins.
 
 Tested and working.
 
+![IMAGE OF MATRIX](https://github.com/cfoge/PIN_MATRIX_4x4/blob/main/image/pin%20matix1.jpg)
+
 ![IMAGE OF MATRIX](https://github.com/cfoge/PIN_MATRIX_4x4/blob/main/pin%20matrix.JPG)
 
 
